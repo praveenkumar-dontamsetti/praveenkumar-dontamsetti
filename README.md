@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi,
+
+My name is praveen. I am a java web developer. I mostly develop restful web servies
+
+
