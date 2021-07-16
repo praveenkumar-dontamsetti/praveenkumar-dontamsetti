@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋 ,
+#### I'm praveen. I develop java web applications mostly writing web services
 
 <!--
 **praveenkumar-dontamsetti/praveenkumar-dontamsetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi,
-
-My name is praveen. I am a java web developer. I mostly develop restful web servies
 
 
